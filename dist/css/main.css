@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  margin-left: 2rem;
+  color: #0f0e17;
+}
+
+.hero-section {
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(https://images.unsplash.com/photo-1519703936-c4a3b3eb88e4?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80);
+  width: 100%;
+}
+
+.container-fluid {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+#typed {
+  color: #0f0e17;
+  font-size: 4rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+.register-button {
+  width: 8rem;
+}
+
+.btn-primary {
+  background-color: #ff8906;
+  border: none;
+  border-radius: 42px;
+}
+
+.register-button {
+  font-size: 1rem;
+  font-weight: 600;
+}
+/*# sourceMappingURL=main.css.map */
